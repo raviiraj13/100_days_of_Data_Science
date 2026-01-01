@@ -1,2 +1,4 @@
 # 100_days_of_Data_Science
-This is my journey of learing data science and aiming for creating own ml project.Here i daily upload my codes what i learn and code that particular day
+Today is 1st January,2026<br>
+Today I learnt Numpy i have completed it.<br>
+From Tomorrow i start Pandas
