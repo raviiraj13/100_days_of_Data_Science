@@ -1,4 +1,4 @@
 # 100_days_of_Data_Science
-Today is 1st January,2026<br>
-Today I learnt Numpy i have completed it.<br>
-From Tomorrow i start Pandas
+Today is 2nd January,2026<br>
+Today I learnt Pandas i learnt basis it stills left not completed yet.<br>
+ i continue Pandas Tomorrow
